@@ -1,5 +1,4 @@
-//se povrzuva obratno od to so pisuva na konektoro
-// od digi pin 2 na arduinoto se vrzuva so 8 na konektoro na keypad i taka natamu za site 8
+// Digital pin 2 on Arduino connects with pin 8 on the keypad and so on for all 8 pins till the end.
 
 
 #include <Keypad.h>
